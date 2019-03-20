@@ -1,0 +1,2 @@
+# idlewizzard
+auto
